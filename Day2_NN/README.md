@@ -76,10 +76,14 @@ https://www.kaggle.com/learn/deep-learning . Good introductory examples. May com
 ## Text modeling with RNNs
 
 + Encoding and embedding words/characters.
+
+>**Very nice introduction and illustrations here:  https://jalammar.github.io/illustrated-word2vec/**
+
 + Simple feedforward NN with Dense layers: 
 	* Binary: Sentiment analysis
 	* Multi-class (single label): News topics
 
 + ? Sequence modeling.
+>**Very nice explanation and illustrations here:  https://jalammar.github.io/visualizing-neural-machine-translation-mechanics-of-seq2seq-models-with-attention/**
 
 ## Examples of transfer learning
