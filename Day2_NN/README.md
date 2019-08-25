@@ -32,7 +32,15 @@ __<Find illustrations of idea: pixel values in image vs. identity of face, or fa
 
 > In deep learning, these hierarchies of features with increasing complexity (and getting closer to semantics) is *learned* from data. The models constitue of *layers* that start from the raw, lowest level input (e.g. pixels), and build up to more refined, more meaningful features (lines, edges, shapes, structures, objects, scene, etc), extracted by layers of neural networks appended as a sequence of processing and refinement steps. These long cascade of layers is where the name *Deep Learning* comes from. We do not explicitly define these layers of features and what they should be as it was done manually before, but they are automatically learned from data during training.
 
-**<Find images of features detected at increasing layers of an object detection CNN model>**
+**<Find images of features detected at increasing layers of an object detection CNN model. Some samples included in the images folder.>**
+
+![Manual feature engineering vs. Deep Learning](images/ML_features_vs_DL.png)
+
+![CNN learned features](images/CNN_learned_features.jpg)
+
+![CNN learned features](images/zeilercnnfeatures.jpeg)
+
+![CNN learned features](images/CNN_low-high-features.png)
 
 * Learning hierarchies of representations from data: Deep Learning.
 
@@ -51,6 +59,8 @@ __<Find illustrations of idea: pixel values in image vs. identity of face, or fa
 	> **Use existing material in visual learning.**
 	
 	> **Also, very nice intro, and very good illustrations here:  https://towardsdatascience.com/a-comprehensive-guide-to-convolutional-neural-networks-the-eli5-way-3bd2b1164a53**
+	
+	> **Good in-depth explanation here, with some nice illustrations e.g. learned visual features: http://cs231n.github.io/convolutional-networks/**
 
 **For the following visual learning topics, check out:
 https://www.kaggle.com/learn/deep-learning . Good introductory examples. May compliment or replace some of the existing examples and content in visual learning repo.**
